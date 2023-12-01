@@ -56,13 +56,14 @@ async def startup_event():
 
 class MyRequest(BaseModel):
     question: str
+    chat_history: []
     scene: Optional[str]
     llm_type: Optional[str] = 'openai'
 
 
 @app.post("/chat/sse")
 async def sse_http(params: MyRequest):
-    return EventSourceResponse(respx(params.question))
+    return EventSourceResponse(respx(params.question, params.chat_history))
 
 
 async def respx(question: str, chat_history: []) -> AsyncGenerator[str, None]:
