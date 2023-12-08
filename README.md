@@ -8,7 +8,36 @@
 - 支持fastapi接口
 - 支持本地向量库
 - 使用langchain 生成ai agent
+- 支持conversation agent流式返回中文回答
 
 欢迎沟通交流chat ai agent stream langchain等技术
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ![项目截图](assets/img.png)
