@@ -11,3 +11,4 @@
 - 支持conversation agent流式返回中文回答
 
 欢迎沟通交流
+![image](https://github.com/gzlliyu/chatStreamAiAgent/assets/137682921/80ea413e-ba56-4a44-94e4-9e18c41fded3)
