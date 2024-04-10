@@ -1,5 +1,7 @@
 # 使用LLM、langchain、fastapi、agent等技术实现ai chat agent
 
+如果有用，期待你的star ^(∩_∩)^
+
 ## 入口详见：@app.post("/chat/sse")
 
 ## 相关功能：
