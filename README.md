@@ -4,6 +4,8 @@
 
 ## 入口详见：@app.post("/chat/sse")
 
+## 如果你需要新版本LangChain（>= 0.1.0）的agent、rag的使用方法，可以参考我的这个项目：[langchain新版本指南](https://github.com/gzlliyu/langchain-newVersion-learning/blob/main/my_agent.py)
+
 ## 相关功能：
 * llm和用户聊天
 * sse流式输出
