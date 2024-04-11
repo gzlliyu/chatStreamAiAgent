@@ -12,7 +12,7 @@
 - 使用langchain 生成ai agent
 - 支持conversation agent流式返回中文回答
 
-
+## 使用LangChain新版本？
 如果你需要新版本LangChain（>= 0.1.0）的agent、rag的使用方法，可以参考我的这个项目：[langchain新版本指南](https://github.com/gzlliyu/langchain-newVersion-learning/blob/main/my_agent.py)
 
 欢迎沟通交流
